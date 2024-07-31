@@ -1,0 +1,174 @@
+{
+  "batchName": "",
+  "batchTime": 0,
+  "boardConf": "",
+  "boardCustom": "",
+  "boardName": "OAK-1",
+  "boardOptions": 0,
+  "boardRev": "R3M1E2",
+  "cameraData": [
+    [
+      0,
+      {
+        "cameraType": 0,
+        "distortionCoeff": [
+          9.77531623840332,
+          -133.4388885498047,
+          -0.0011936078080907464,
+          -0.0008470453321933746,
+          329.47894287109375,
+          9.438911437988281,
+          -130.6585693359375,
+          323.4864501953125,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "extrinsics": {
+          "rotationMatrix": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0
+            ]
+          ],
+          "specTranslation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0
+          },
+          "toCameraSocket": -1,
+          "translation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "height": 2160,
+        "intrinsicMatrix": [
+          [
+            3057.777099609375,
+            0.0,
+            1819.4970703125
+          ],
+          [
+            0.0,
+            3057.777099609375,
+            1146.36181640625
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "lensPosition": 0,
+        "specHfovDeg": 68.7938003540039,
+        "width": 3840
+      }
+    ]
+  ],
+  "deviceName": "",
+  "hardwareConf": "",
+  "housingExtrinsics": {
+    "rotationMatrix": [],
+    "specTranslation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "toCameraSocket": -1,
+    "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "imuExtrinsics": {
+    "rotationMatrix": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "specTranslation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "toCameraSocket": -1,
+    "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "miscellaneousData": [],
+  "productName": "",
+  "stereoEnableDistortionCorrection": false,
+  "stereoRectificationData": {
+    "leftCameraSocket": 255,
+    "rectifiedRotationLeft": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "rectifiedRotationRight": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "rightCameraSocket": 255
+  },
+  "stereoUseSpecTranslation": true,
+  "version": 6,
+  "verticalCameraSocket": -1
+}

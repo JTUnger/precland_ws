@@ -1,0 +1,174 @@
+{
+  "batchName": "",
+  "batchTime": 1710153837,
+  "boardConf": "nIR-C00M00-00",
+  "boardCustom": "",
+  "boardName": "NG9093",
+  "boardOptions": 0,
+  "boardRev": "R3M0E4",
+  "cameraData": [
+    [
+      0,
+      {
+        "cameraType": 0,
+        "distortionCoeff": [
+          8.658709526062012,
+          18.15944480895996,
+          0.0007431767880916595,
+          1.3144653166818898e-05,
+          -0.6496691703796387,
+          8.653162956237793,
+          21.006977081298828,
+          1.8948729038238525,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "extrinsics": {
+          "rotationMatrix": [
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0
+            ]
+          ],
+          "specTranslation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0
+          },
+          "toCameraSocket": -1,
+          "translation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "height": 2160,
+        "intrinsicMatrix": [
+          [
+            2301.169677734375,
+            0.0,
+            1898.7806396484375
+          ],
+          [
+            0.0,
+            2300.0947265625,
+            1099.1539306640625
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "lensPosition": 0,
+        "specHfovDeg": 108.0,
+        "width": 3840
+      }
+    ]
+  ],
+  "deviceName": "",
+  "hardwareConf": "F1-FV01-BC000",
+  "housingExtrinsics": {
+    "rotationMatrix": [],
+    "specTranslation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "toCameraSocket": -1,
+    "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "imuExtrinsics": {
+    "rotationMatrix": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "specTranslation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "toCameraSocket": -1,
+    "translation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "miscellaneousData": [],
+  "productName": "OAK-1-W",
+  "stereoEnableDistortionCorrection": true,
+  "stereoRectificationData": {
+    "leftCameraSocket": 255,
+    "rectifiedRotationLeft": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "rectifiedRotationRight": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "rightCameraSocket": 255
+  },
+  "stereoUseSpecTranslation": false,
+  "version": 7,
+  "verticalCameraSocket": -1
+}
