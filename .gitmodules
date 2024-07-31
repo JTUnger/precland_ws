@@ -1,0 +1,3 @@
+[submodule "/home/joset/Desktop/precland_ws/src/px4_msgs"]
+	path = /home/joset/Desktop/precland_ws/src/px4_msgs
+	url = https://github.com/PX4/px4_msgs.git
